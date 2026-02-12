@@ -6,6 +6,6 @@ This project reconstructs an unknown alphabet from a sorted dictionary.
 - Extract ordering constraints from adjacent words.
 - Build a directed graph of symbol dependencies.
 - Apply Kahn's algorithm to compute the alphabet.
-- Validate the result by rechecking dictionary order.
+- Validated the result by rechecking dictionary order.
 
 Language: R
