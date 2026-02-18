@@ -8,4 +8,4 @@ This project reconstructs an unknown alphabet from a sorted dictionary.
 - Apply Kahn's algorithm to compute the alphabet.
 - Validated the result by rechecking dictionary order.
 
-Language: R
+Language: R programming Language
